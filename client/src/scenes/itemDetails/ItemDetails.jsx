@@ -10,6 +10,7 @@ import RemoveIcon from "@mui/icons-material/Remove";
 import { addToCart } from "../../state";
 import { useDispatch } from "react-redux";
 
+
 const ItemDetails = () => {
   const dispatch = useDispatch();
   const { itemId } = useParams();

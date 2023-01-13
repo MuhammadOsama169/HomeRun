@@ -23,4 +23,5 @@ export const Heading = styled.div`
   font-family: "Cormorant SC", serif;
   font-size: 30px;
   color: white;
+  margin-bottom: 20px;
 `;
