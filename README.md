@@ -1,5 +1,5 @@
 
-![Logo](/src/assets/images/logo.png)
+![Logo](/client/src/assets/images/logo.png)
 
 
 # HomeRun
