@@ -24,7 +24,7 @@ const Item = ({ item, width }) => {
       >
         <ImageContainer
           alt={item.name}
-          src={`https://strapi-production-6616.up.railway.app${url}`}
+          src={url}
           onClick={() => navigate(`/item/${item.id}`)}
           style={{ cursor: "pointer" }}
         />
