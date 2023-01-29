@@ -7,7 +7,7 @@ const FilterSearch = () => {
 
   useEffect(() => {
     // Fetch the items from the API
-    fetch('http://localhost:1337/api/items?populate=image')
+    fetch('https://strapi-production-6616.up.railway.app/api/items?populate=image')
       .then(response => response.json())
       .then(data => setItems(data));
   }, []);

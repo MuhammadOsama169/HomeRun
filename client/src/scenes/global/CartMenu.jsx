@@ -48,7 +48,7 @@ const CartMenu = () => {
                       alt={item?.name}
                       width="123px"
                       height="164px"
-                      src={`http://localhost:1337${item?.attributes?.image?.data?.attributes?.formats?.medium?.url}`}
+                      src={`https://strapi-production-6616.up.railway.app${item?.attributes?.image?.data?.attributes?.formats?.medium?.url}`}
                     />
                   </ContainerWrap40pc>
                   <ContainerWrap60pc >
