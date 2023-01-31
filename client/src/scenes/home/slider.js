@@ -31,7 +31,7 @@ export const Slider = () => {
           className="mySwiper"
         >
           <SwiperSlide>
-            <img src={Img1} alt="" />
+            <img src={Img5} alt="" />
           </SwiperSlide>
           <SwiperSlide>
             <img src={Img3} alt="" />
@@ -40,7 +40,7 @@ export const Slider = () => {
             <img src={Img4} alt="" />
           </SwiperSlide>
           <SwiperSlide>
-            <img src={Img5} alt="" />
+            <img src={Img1} alt="" />
           </SwiperSlide>
           <SwiperSlide>
             <img src={Img6} alt="" />

@@ -59,7 +59,7 @@ const ItemDetails = () => {
             alt={item?.name}
             width="100%"
             height="100%"
-            src={`https://strapi-production-6616.up.railway.app${item?.attributes?.image?.data?.attributes?.formats?.medium?.url}`}
+            src={`${item?.attributes?.image?.data?.attributes?.formats?.medium?.url}`}
             style={{ objectFit: "contain" }}
           />
         </ImageContainer>
