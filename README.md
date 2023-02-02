@@ -4,11 +4,11 @@
 
 # HomeRun
 
-HomeRun: Is a E-commerce website with custom backend entries and secure payemnt linked with STRIPE payment method.
+HomeRun: Is a E-commerce website with custom backend entries and secure payemnt linked with STRIPE payment method. The backend server is hosted by Railway. 
 
 ## Available Scripts 🐧
 
-In the project directory, you can run:
+In the project directory, you can run the backend locally by simply running.
 
 ```bash
 npm start
@@ -25,11 +25,10 @@ cd client
 ```bash
 npm start
 ```
-Runs the app in the development mode and watches for changes in tailwind classes.
-Open http://localhost:3000 to view it in the browser.
+
 ## Demo 💻
 
-https://renewbe.netlify.app/
+https://homerun-muhammad.netlify.app
 
 
 ## 🛠 Skills
